@@ -12,7 +12,6 @@
 <br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=f3b745)
-![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=HTML&logoColor=white&color=f3b745)
 
 .....
 </details>
