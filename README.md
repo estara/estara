@@ -4,6 +4,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=f3b745)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=Go&logoColor=white&color=f3b745)
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=f3b745)
 
